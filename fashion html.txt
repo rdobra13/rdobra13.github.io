@@ -1,0 +1,10 @@
+<h2> FASHION</h2>
+</div id="justified">
+<h1> <p> Albania is well known for being sincronic with world fashion model. Young people use to follow the modern trends taken from the last magazines.
+ Me, as well, I am very concern about everything related to fashion. I like vintage style, long and short evening dresses and evening hats. 
+I have been models' consuelor in a very famous boutique in my city.
+I have also participated in many fashion's events like "Miss nd Mister Of Albania" where I worked s a consuelor nd make-up designer. </h1> </p>
+<img src="fashion.jpg">
+<img src="fashion 1.jpg">
+<div id="left">
+<p>

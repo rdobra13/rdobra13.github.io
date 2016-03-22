@@ -1,0 +1,9 @@
+<h2> FOOD</h2>
+<h2> Albanian food is so delicious. All foreigner love our "byrek" or "japrak".
+We are part of many worlds'conviviums like "slow food" or " food management" and we are so proud of that. 
+Sometimes many countries make a mstake when they say we have the same food as greeks because actually it is so different.
+</h2>
+</p>
+<img src="bakllava.jpg">
+<img src="speca.jpg">
+</div id="left">
